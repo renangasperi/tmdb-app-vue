@@ -5,6 +5,11 @@ Uma página web responsiva feita com vue para busca de filmes utilizando a API d
 Acesse por esse [link](https://renangasperi.github.io/tmdb-app-vue/).
 
 ## Visão Geral
+#### Rotas
+A página inicial da aplicação contem a listagem de 4 categorias diferentes e cada categoria possui uma rota propria caso o usuário queria ver mais opções da mesma.
+Além disso, o usuário também pode buscar um filme específico pelo campo de busca ou selecionar um filme da listagem da tela principal ou de categoria e obter mais informações como a sinopse e o elenco.
+  
+
 #### Versão Web
 ![image](https://github.com/renangasperi/tmdb-app-vue/assets/22361412/468951bd-9a45-4e8d-ae98-4611411becc8)
 #### Versão Mobile
